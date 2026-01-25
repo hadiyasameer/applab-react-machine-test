@@ -1,4 +1,3 @@
-import React from 'react';
 import { useCart } from '../hooks/useCart';
 import { useLocation, useNavigate } from 'react-router-dom';
 
