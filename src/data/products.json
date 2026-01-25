@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Bluetooth Headphone",
+    "price": 119,
+    "category": "Headphones",
+    "image": "src/assets/images/product_1.png"
+  },
+  {
+    "id": "2",
+    "name": "Redmi Smart Watch",
+    "price": 89,
+    "category": "Watches",
+    "image": "src/assets/images/product_2.png"
+  },
+  {
+    "id": "3",
+    "name": "Noise Canceling Stereo",
+    "price": 89,
+    "category": "Headphones",
+    "image": "src/assets/images/product_3.png"
+  },
+  {
+    "id": "4",
+    "name": "Gucci Watch",
+    "price": 599,
+    "category": "Watches",
+    "image": "src/assets/images/product_4.png"
+  },
+  {
+    "id": "5",
+    "name": "Realme GT",
+    "price": 140,
+    "category": "Mobiles",
+    "image": "src/assets/images/product_5.png"
+  },
+  {
+    "id": "6",
+    "name": "Boat Stone",
+    "price": 275,
+    "category": "Speakers",
+    "image": "src/assets/images/product_6.png"
+  },
+  {
+    "id": "7",
+    "name": "Samsung Galaxy A14",
+    "price": 269,
+    "category": "Mobiles",
+    "image": "src/assets/images/product_7.png"
+  },
+  {
+    "id": "8",
+    "name": "Wireless Headphone",
+    "price": 149,
+    "category": "Headphones",
+    "image": "src/assets/images/product_8.png"
+  },
+  {
+    "id": "9",
+    "name": "Sekonda Watch",
+    "price": 150,
+    "category": "Watches",
+    "image": "src/assets/images/product_9.png"
+  },
+  {
+    "id": "10",
+    "name": "Boat Headphone",
+    "price": 90,
+    "category": "Headphones",
+    "image": "src/assets/images/product_10.png"
+  },
+  {
+    "id": "11",
+    "name": "Boat Speaker",
+    "price": 179,
+    "category": "Speakers",
+    "image": "src/assets/images/product_11.png"
+  },
+  {
+    "id": "12",
+    "name": "Samsung Galaxy",
+    "price": 160,
+    "category": "Mobiles",
+    "image": "src/assets/images/product_12.png"
+  }
+]
